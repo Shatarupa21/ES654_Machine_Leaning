@@ -1,2 +1,6 @@
 # ES654_Machine_Leaning
-For machine learning course work
+This repository is specially created for machine learning course work.
+
+Name: Shatarupa Bepari
+Roll Number: 22210042
+Department of Computer Science and Engineering
